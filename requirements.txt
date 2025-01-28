@@ -1,0 +1,11 @@
+python>=3.8
+numpy
+pandas
+tensorflow
+stable-baselines3
+nsepy
+yfinance
+kiteconnect
+python-dotenv
+vectorbt
+newsapi-python
